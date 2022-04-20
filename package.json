@@ -23,8 +23,8 @@
     "classnames": "^2.2.6",
     "next": "^11.0.0",
     "postcss": "^8.3.5",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "react-virtuoso": "^1.1.1",
     "tailwindcss": "^2.2.0"
@@ -37,5 +37,18 @@
     "pullstate": "^1.20.5",
     "react-use-gesture": "^9.1.3",
     "reselect": "^4.0.0"
-  }
+  },
+  "description": "![Screenshot](./screenshot.png)",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter/issues"
+  },
+  "homepage": "https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter#readme"
 }
